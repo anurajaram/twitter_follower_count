@@ -14,3 +14,9 @@
 <br /> Program 3 - I_follow_people.R - Program to create list of all the people you follow, along with some basic details about them (screen name, description and follower counts). 
 <br /> Uses concept of cursors and pagination since the Twitter API only allows 200 usernames in one call.
 <br />
+
+<br /> Program 4 - who_iam_following.R - Program to create list of all the people I follow, along with their details (screen name, bio, location and follower counts). 
+<br />
+
+<br /> Program 5 - twitter_infl_tweets.R - Program to extract tweets from the people who I follow using their follower-ids. 
+<br /> Note we exclude "reply" tweets i.e. comments or responses to tweets.
